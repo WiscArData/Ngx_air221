@@ -1,0 +1,81 @@
+{
+    "baselines": [
+        {
+            "blob": "RErlJbXcueFET/XAtZpwlURU/vi1utb5RFoHsrX0xZxEXxBPtf957URkGPq1x/F7RGkh5LXWquxEbiqfth1d0URzM5K1/gp0RHg8e7X4/KtEfUUOtfsUB0SBJxO1n2frRIOrZrYAjQNEhi+0tkL6ykSItFC2C8NERIs5SbXCdQ1Ejb1NtdahvUSQQje2CxnzRJLHSbX25z1ElUwwte71TUSX0bW1ry6aRJpWG7YWaz5EnNuJtfJQBkSfYBu2E3ohRKHlX7V0XGg=",
+            "detector": "H3"
+        },
+        {
+            "blob": "RErlJbXOGJdET/XAthxAi0RU/vi12ysaRFoHsrVswJBEXxBPtbspbkRkGPq1wCI5RGkh5LXd+DFEbiqftVmtK0RzM5K16ygERHg8e7YHHiNEfUUOtbavFESBJxO1mhUaRIOrZrTOJkdEhi+0tdO4v0SItFC1+yl6RIs5SbWYUyZEjb1Ntd/OWUSQQje0596RRJLHSbW8BA9ElUwwtiz8AUSX0bW13EGWRJpWG7YookxEnNuJtWwJwkSfYBu2AqMtRKHlX7XjHhk=",
+            "detector": "H1"
+        },
+        {
+            "blob": "RErlJbYtvzxET/XAtkb46kRU/vi2inZFRFoHsrYl5LREXxBPtjlbXERkGPq2IgRxRGkh5LYi/VpEbiqftgxYVURzM5K2LJbQRHg8e7Y07wpEfUUOtgA+YESBJxO2YKVtRIOrZrZtI9lEhi+0tkaWwkSItFC2Epn8RIs5SbY3MjlEjb1Ntl+kAkSQQje2L2XmRJLHSbZI3mRElUwwtl4C0ESX0bW2H5zcRJpWG7ZgvQVEnNuJtgkvGUSfYBu2RvfWRKHlX7ZH2D4=",
+            "detector": "L1"
+        },
+        {
+            "blob": "RErlJbW7ei5ET/XAtge41URU/vi0GA5zRFoHsrW+k8NEXxBPtihgdkRkGPq1lPPYRGkh5LaNXi5EbiqftAjrcURzM5K1qdL0RHg8e7WPUalEfUUOteaPT0SBJxO1MyD4RIOrZrVVXJBEhi+0thYcJUSItFC1tr2gRIs5SbWJ6g5Ejb1Nto1WmUSQQjc1k3WhRJLHSbZERRFElUwwtf7BR0SX0bW1qcfBRJpWG7WjgMVEnNuJtZSlD0SfYBu2F/2ORKHlX7ZixXg=",
+            "detector": "L3"
+        },
+        {
+            "blob": "RErlJTcpha1ET/XANx2dMERU/vg3JBDeRFoHsjcur6hEXxBPNx53cURkGPo3GTlfRGkh5DcebstEbiqfNxTXmkRzM5I3HsRRRHg8ezcq//lEfUUONxHfEUSBJxM3JIElRIOrZjcac6xEhi+0Nxtfo0SItFA3GgbURIs5STco4ttEjb1NNx4kJ0SQQjc3JdcCRJLHSTccW2xElUwwNx9lK0SX0bU3FXWIRJpWGzcNrctEnNuJNyWadUSfYBs3GhXRRKHlXzcL60M=",
+            "detector": "L5"
+        }
+    ],
+    "commit": "3d85190f858616f080ad9a7a61f298e1ef140074",
+    "encoding": "base64",
+    "format": ">ff",
+    "signals": [
+        {
+            "blob": "QjVQoTiTs5VChPBWOKwKFkKv0bI4w+HpQtr2fTjeKKZDAv9SOPguvEMYg/U5B9sHQy427DkUeyFDQ9ELOSHuNUNZSYw5LemUQ27xnjk48EZDgkirOUTLKEONFjk5UBaaQ5fvNDlbsRFDor92OWV9G0OtlGU5cnOvQ7htQzl8uGZDw0YEOYRWUEPOGak5iKKGQ9j6kjmOdK1D49ZzOZPGdkPup/s5mM9+Q/mA1Tmdl+9EAinSOaMWXEQHk1E5p/HtRAz+nDmrgMtEEmXrObIlR0QXzFk5tVn2RB0zKjm59BBEIpy4Ob5HK0QoCQc5wsiORC1t6DnHBTdEMtjeOcui+EQ4R6g50DhqRD27lTnUboxEQyzvOdejog==",
+            "detector": "H3",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "QjVQobNZ+ClChPBWNiE2/0Kv0bI2gjb5Qtr2fTaD2sFDAv9SNqwORkMYg/U2509JQy427DcLgghDQ9ELNx/YsUNZSYw3MU0JQ27xnjdBwKBDgkirN1F6c0ONFjk3aJLnQ5fvNDd4lvlDor92N4S9CkOtlGU3luA8Q7htQzeTK+pDw0YEN6IkmUPOGak3rGNGQ9j6kjex659D49ZzN7cA5UPup/s3wN3RQ/mA1TfN891EAinSN9ahWEQHk1E33LcwRAz+nDflODBEEmXrN+n2kkQXzFk36T4jRB0zKjf729JEIpy4OACja0QoCQc4Ayz3RC1t6DgDghxEMtjeOAZg00Q4R6g4ChMkRD27lTgO8P1EQyzvOBfHzg==",
+            "detector": "H1",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "QjVQobZDNvpChPBWtjL+bkKv0bK2BTcdQtr2fbYgQHxDAv9Sti7zakMYg/W2NrfQQy427LYf6YNDQ9ELtjeMt0NZSYy2B2jmQ27xnrYuJQRDgkirtjUbKkONFjm2EeF/Q5fvNLYga25Dor92timGvkOtlGW18iXrQ7htQ7YISfFDw0YEtjsqyEPOGam2Kl2UQ9j6krYxjQND49Zztgjzb0Pup/u2I9HuQ/mA1bZdZChEAinStiIx1UQHk1G2FxUxRAz+nLY7/rZEEmXrtfYyIkQXzFm2UBaRRB0zKrXgryZEIpy4tiE/dEQoCQe2Gqp5RC1t6LYHtFREMtjethrs0kQ4R6i2Gx78RD27lbZRS4tEQyzvtg9Z5Q==",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "QjVQobXCcfhChPBWtaDXqUKv0bK0/9h4Qtr2fbWEij9DAv9StTjYLkMYg/W1ZIa/Qy427LU67MFDQ9ELtWjld0NZSYwz7LB2Q27xnrRPIc5DgkirtTy9WEONFjm1TKp4Q5fvNLUTR45Dor92sbpYNEOtlGU0s2FPQ7htQ7Tc2ShDw0YENPOHEUPOGak0YvSNQ9j6krS04IND49ZzNFQyH0Pup/u0oBZ7Q/mA1bUUzlpEAinSNJrE0kQHk1G0ziTVRAz+nLR2y7REEmXrNU+PCEQXzFk1H0q3RB0zKrUVW1pEIpy4NUeNKEQoCQezu765RC1t6DVctZREMtjeNQY/xUQ4R6g1yTlbRD27lTTJ6X1EQyzvNTE/3A==",
+            "detector": "L3",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": "QjVQoTcmKB9ChPBWNy1SFkKv0bI3HXEdQtr2fTcjlEVDAv9SNxyL40MYg/U3LGtfQy427DcjMP5DQ9ELNybzK0NZSYw3JMx1Q27xnjctq/xDgkirNzCk0kONFjk3H9uJQ5fvNDcmI6tDor92NysEf0OtlGU3KHuuQ7htQzcoKBJDw0YENzKTfEPOGak3LueAQ9j6kjcv06VD49ZzNyPN20Pup/s3PK75Q/mA1Tc0oOFEAinSNzYdLEQHk1E3Iw3ARAz+nDcnMupEEmXrNz7JS0QXzFk3N6u0RB0zKjc3QD5EIpy4NzO44EQoCQc3L80xRC1t6Dc5SLREMtjeNzb/CkQ4R6g3NMr+RD27lTc2JNFEQyzvNzKGJg==",
+            "detector": "L5",
+            "isotope": "Ar36"
+        }
+    ],
+    "sniffs": [
+        {
+            "blob": "QADdJzg7GStAguEaOEmJSEDC5HM4M3cCQQG7dDg5prZBIbtLOFSNeEFB9nc4flt4QWG3EzhfcihBgOPrOIIBnkGQ6VA4jGBUQaD1LjhyMf9BsP1hOHr23UHA+vU4ktp4",
+            "detector": "H3",
+            "isotope": "Ar40"
+        },
+        {
+            "blob": "QADdJ7chwZFAguEat1aSe0DC5HO2/f5mQQG7dLZhyURBIbtLtWNXV0FB9ne2ZrUoQWG3E7Y5Qm1BgOPrt3xVvkGQ6VA3COOmQaD1Ljcy/ElBsP1htWwEdEHA+vU3gsAG",
+            "detector": "H1",
+            "isotope": "Ar39"
+        },
+        {
+            "blob": "QADdJzXC5PlAguEaN2a2W0DC5HM1WLehQQG7dLbroUJBIbtLtx3hJUFB9ne1+zw5QWG3E7arLqdBgOPrNvtXj0GQ6VC2jSauQaD1LjZvi31BsP1hNbm3QkHA+vW3rZPn",
+            "detector": "L1",
+            "isotope": "Ar38"
+        },
+        {
+            "blob": "QADdJzcoMoVAguEat1dopUDC5HO3BduVQQG7dDRd/exBIbtLtqRdw0FB9nc1ZtzEQWG3EzWSRORBgOPrtHmyP0GQ6VC3xQAHQaD1LrYefRhBsP1ht1IZl0HA+vW3ShzC",
+            "detector": "L3",
+            "isotope": "Ar37"
+        },
+        {
+            "blob": "QADdJzcQARVAguEaNi2PXUDC5HO3AxmXQQG7dLZVqy9BIbtLN0ELa0FB9nc1fTjCQWG3EzeOH4FBgOPrN6IFV0GQ6VA3VwgXQaD1LjfNlKRBsP1hNohkl0HA+vU2zVIU",
+            "detector": "L5",
+            "isotope": "Ar36"
+        }
+    ]
+}
