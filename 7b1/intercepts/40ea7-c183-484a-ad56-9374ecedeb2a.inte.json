@@ -1,0 +1,57 @@
+{
+    "Ar36": {
+        "error": 8.513725601253438e-09,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": 2.895129975909485e-07
+    },
+    "Ar37": {
+        "error": 1.086295837788533e-07,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": -1.586937930534517e-06
+    },
+    "Ar38": {
+        "error": 1.6392233900842487e-07,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": -9.850479956893872e-07
+    },
+    "Ar39": {
+        "error": 2.166135062017455e-07,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "linear",
+        "value": -5.675147923337114e-07
+    },
+    "Ar40": {
+        "error": 8.706128437235815e-07,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 2
+        },
+        "fit": "parabolic",
+        "value": 7.069230316977733e-05
+    }
+}
